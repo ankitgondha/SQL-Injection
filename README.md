@@ -6,6 +6,9 @@ This repository contains the materials for a project developed at the Indian Ins
 
 SQL injection (SQLi) is a prevalent security threat to web applications that manipulate SQL statements to execute malicious queries, allowing attackers unauthorized access to database resources. Our project addresses this critical security risk by developing a detection system capable of identifying SQL injection attempts with high accuracy.
 
+## SRS Link
+[Click here to view the SRS document](https://drive.google.com/file/d/1aB3pMalAflkRYc03gtfykBC8dLXuw3is/view?usp=sharing)
+
 ### Problem Statement
 
 Web applications are susceptible to various cyber-attacks, with SQL injection being one of the most effective due to vulnerabilities in the database query software. Traditional methods like input validation and parameterized queries are often bypassed by sophisticated hacking techniques. Therefore, an advanced approach that can evolve and adapt to new SQL injection strategies is required.
